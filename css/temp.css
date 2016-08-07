@@ -1,0 +1,11 @@
+.dummy1 {
+    height: 150px;
+    width: 200px;
+    float: left;
+    margin: 5px;
+    border: 1px solid blue;
+    padding: 15px;
+    text-align: center;
+}
+
+
